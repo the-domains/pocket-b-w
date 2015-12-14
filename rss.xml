@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A slice of my world.]]></title>
         <description><![CDATA[A slice of my world.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pocket-b-w/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 14:34:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 14:39:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pocket-b-w/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9764548b-fe78-44c8-b202-eaa3dcbf6bdb.jpg">]]></description>
+            <link>https://thegrid.ai/pocket-b-w/ef5c3bd0-84fa-4ea2-8dde-8b2af5a234ec/index.html</link>
+            <guid isPermaLink="false">ef5c3bd0-84fa-4ea2-8dde-8b2af5a234ec</guid>
+            <pubDate>Mon, 14 Dec 2015 14:39:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title]]></title>
             <description><![CDATA[<article><h1>Title</h1><p>Lost in the mist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1265277699f75397141d4199d081690275862e45.jpg"></article>]]></description>
-            <link>undefinedtitle/index.html</link>
+            <link>https://thegrid.ai/pocket-b-w/title/index.html</link>
             <guid isPermaLink="false">90839a64-2ed3-40d4-aa45-10a388cc4980</guid>
             <pubDate>Mon, 14 Dec 2015 14:34:06 GMT</pubDate>
         </item>
