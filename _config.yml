@@ -1,0 +1,28 @@
+name: Pocket B/W
+favicon: null
+layout_spectrum: 0.8420879864133894
+typography_spectrum: 0.5011609706562012
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9254027681890875
+  lightness: 0.9699122824240476
+  saturation: 0.4173799706622958
+  rhythmicContrast: 0.9392744624055922
+purpose: []
