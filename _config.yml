@@ -1,7 +1,7 @@
 name: Pocket B/W
 favicon: null
-layout_spectrum: 0.8420879864133894
-typography_spectrum: 0.5011609706562012
+layout_spectrum: 0.24265
+typography_spectrum: 0.65137
 title: A slice of my world.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9254027681890875
-  lightness: 0.9699122824240476
-  saturation: 0.4173799706622958
-  rhythmicContrast: 0.9392744624055922
+    - '#ffffff'
+    - '#b5b0af'
+    - '#e4e1e2'
+    - '#eeeef0'
+    - '#cccbc9'
+  brandStrength: 0.8125
+  lightness: 0.4375
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
