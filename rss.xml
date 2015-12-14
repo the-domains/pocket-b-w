@@ -4,21 +4,21 @@
         <description><![CDATA[A slice of my world.]]></description>
         <link>https://thegrid.ai/pocket-b-w/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 14:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 14:50:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pocket-b-w/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[/ 2 /]]></title>
-            <description><![CDATA[<article><h1>/ 2 /</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d4c38e6b121d31146a23acedc6924af9b4c7ff8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>/ 2 /</h1><p>Mountain spit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c28143ca10cf4e4af0300d5c82f4f68ac817ccf.jpg"></article>]]></description>
             <link>https://thegrid.ai/pocket-b-w/ef5c3bd0-84fa-4ea2-8dde-8b2af5a234ec/index.html</link>
             <guid isPermaLink="false">ef5c3bd0-84fa-4ea2-8dde-8b2af5a234ec</guid>
             <pubDate>Mon, 14 Dec 2015 14:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Title]]></title>
-            <description><![CDATA[<article><h1>Title</h1><p>Lost in the mist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1265277699f75397141d4199d081690275862e45.jpg"></article>]]></description>
+            <title><![CDATA[-1-]]></title>
+            <description><![CDATA[<article><h1>-1-</h1><p>There's something lovely about being lost in the fog...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1265277699f75397141d4199d081690275862e45.jpg"></article>]]></description>
             <link>https://thegrid.ai/pocket-b-w/title/index.html</link>
             <guid isPermaLink="false">90839a64-2ed3-40d4-aa45-10a388cc4980</guid>
-            <pubDate>Mon, 14 Dec 2015 14:34:06 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 14:49:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
